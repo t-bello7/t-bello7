@@ -21,7 +21,7 @@
 
 ### Let's Connect
 
-<a href="mailto:bello4aus@gmail.com">
+<a href="mailto:bello4aus@gmail.com" subject="Let's Know You">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://twitter.com/__tbello">
