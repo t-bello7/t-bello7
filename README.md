@@ -13,7 +13,7 @@
 
 
 ### My Experiences 👨‍💻	
--Backend Web Developer Intern @ [Zuri Team](http://ezeehealth.in/)- Designed and developed application API's for the mobile and frontend team to work with.
+-Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API's for the mobile and frontend team to work with.
 <!-- ### My Accomplishments 🏅
 - HackerRank Certified Java(Basic) - [Link to the certificate](https://www.hackerrank.com/certificates/f12875dd73f0)
  -->
