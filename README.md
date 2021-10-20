@@ -4,8 +4,8 @@
 ### A bit about me 🙋‍♂️	
 - I’m a penultimate student from Nigeria pursuing a bachelor’s degree in Electrical and Electronics Engineering. </br>
 - I am passionate about software development and I have a zeal for learning. </br>
-- My interests include Web and Mobile Development </br>
-- Core Skills are Django, React and React Native </br>
+- My interests include Web and Mobile Development. </br>
+- Core Skills are Django, React and React Native. </br>
 - I am an open source enthusiast and learning to contribute to it. </br>
 
 
@@ -16,7 +16,7 @@
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="45" height="28"/> &nbsp; -->
 <!--  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="41" height="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/> &nbsp;  -->
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
 
 </p>
