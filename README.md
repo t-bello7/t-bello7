@@ -4,7 +4,8 @@
 ### A bit about me 🙋‍♂️	
 - I’m a penultimate student from Nigeria pursuing a bachelor’s degree in Electrical and Electronics Engineering. </br>
 - I am passionate about software development and I have a zeal for learning. </br>
-- My interests include Web Development,React Native Mobile Development and Cloud </br>
+- My interests include Web and Mobile Development </br>
+- Core Skills are Django, React and React Native </br>
 - I am an open source enthusiast and learning to contribute to it. </br>
 
 
