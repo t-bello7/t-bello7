@@ -15,9 +15,10 @@
 <!--  <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="38" height="40"/>  &nbsp;  -->
 <!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="45" height="28"/> &nbsp; -->
 <!--  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="41" height="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/> &nbsp;  -->
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="35" height="35"/>
 
 </p>
 
