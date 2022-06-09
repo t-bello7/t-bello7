@@ -12,7 +12,7 @@
 ### Tech I'm familiar with 💻	
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> &nbsp; &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/> &nbsp; 
-<img src="http://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" alt="css" width="28" height="35"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="28" height="35"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
@@ -23,10 +23,8 @@
 
 ### My Experiences 👨‍💻	
 -Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API's for the mobile and frontend team to work with.
-<!-- ### My Accomplishments 🏅
-- HackerRank Certified Java(Basic) - [Link to the certificate](https://www.hackerrank.com/certificates/f12875dd73f0)
- -->
-
+### My Accomplishments 🏅
+- Microverse Certified (HTML and CSS) - [Link to the certificate](https://www.credential.net/a19cd66e-3b77-46ef-af38-9b2ddd752fe8)
 
 ### Let's Connect
 
