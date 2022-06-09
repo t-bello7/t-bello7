@@ -2,7 +2,7 @@
 
 
 ### A bit about me 🙋‍♂️	
-- I’m a penultimate student from Nigeria pursuing a bachelor’s degree in Electrical and Electronics Engineering. </br>
+- I’m a final year student from Nigeria pursuing a bachelor’s degree in Electrical and Electronics Engineering. </br>
 - I am passionate about software development and I have a zeal for learning. </br>
 - My interests include Web and Mobile Development. </br>
 - Core Skills are Django, React and React Native. </br>
@@ -11,10 +11,8 @@
 
 ### Tech I'm familiar with 💻	
 <p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> &nbsp; &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/> &nbsp; <img src="http://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" alt="css" width="28" height="35"/> &nbsp;
-<!--  <img src="https://iconape.com/wp-content/png_logo_vector/android-robot-head.png" alt="android" width="38" height="40"/>  &nbsp;  -->
-<!--  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" alt="aws" width="45" height="28"/> &nbsp; -->
-<!--  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="41" height="45"/> &nbsp; <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="35" height="35"/> &nbsp;  -->
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/> &nbsp; 
+<img src="http://verekia.com/_pages/css3/introduction-css3/img/css3-logo.png" alt="css" width="28" height="35"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
