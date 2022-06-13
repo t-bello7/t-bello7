@@ -50,4 +50,4 @@
 <br />
 
 ![no. of times visited](https://visitor-badge.laobi.icu/badge?page_id=t-bello7.t-bello7)
-
+![Tomi Bello Stats](https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true)
