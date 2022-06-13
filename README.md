@@ -43,11 +43,11 @@
 <p>&nbsp;</p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=react&show_icons=true" />
-  <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=react" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true" />
+  <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
 </p>
 
 <br />
 
 ![no. of times visited](https://visitor-badge.laobi.icu/badge?page_id=t-bello7.t-bello7)
-![Tomi Bello Stats](https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true)
+
