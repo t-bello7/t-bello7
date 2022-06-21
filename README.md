@@ -1,7 +1,11 @@
 ### Hi there 👋, I'm Bello Tomi ! Glad to see you here.
 
 
-### A bit about me 🙋‍♂️	
+### A bit about me 🙋‍♂️
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true" />
+  <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
+</p>
 - I’m a final year student from Nigeria pursuing a bachelor’s degree in Electrical and Electronics Engineering. </br>
 - I am passionate about software development and I have a zeal for learning. </br>
 - My interests include Web and Mobile Development. </br>
@@ -42,10 +46,7 @@
 <br />
 <p>&nbsp;</p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true" />
-  <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
-</p>
+
 
 <br />
 
