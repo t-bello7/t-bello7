@@ -6,41 +6,35 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true" />
   <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
 </p>
-- I’m a final year student from Nigeria pursuing a bachelor’s degree in Electrical and Electronics Engineering. </br>
-- I am passionate about software development and I have a zeal for learning. </br>
-- My interests include Web and Mobile Development. </br>
-- Core Skills are Django, React and React Native. </br>
-- I am an open source enthusiast and learning to contribute to it. </br>
 
+- I’m a final year bachelor’s degree student in Electrical and Electronics Engineering.
+- I am passionate about software development and I have a zeal for learning. 
+- My interests include Web Development and Optimization.
+- Core Skills are CSS, Javascript and python.
 
 ### Tech I'm familiar with 💻	
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> &nbsp; &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/> &nbsp; 
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="28" height="35"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="35" height="35"/>
-
-</p>
+- HTML <img  align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/>
+- CSS3 <img  align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="28" height="35"/> 
+- JAVASCRIPT <img  align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="35" height="35"/>
+- PYTHON <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> 
+- GIT <img  align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
+- DJANGO <img  align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
+- REACT <img  align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
 
 
 ### My Experiences 👨‍💻	
--Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API's for the mobile and frontend team to work with.
+- Frontend Developer @ [Microverse](https://microvers.org)
+- Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API's for the mobile and frontend team to work with.
+
 ### My Accomplishments 🏅
 - Microverse Certified (HTML and CSS) - [Link to the certificate](https://www.credential.net/a19cd66e-3b77-46ef-af38-9b2ddd752fe8)
 
 ### Let's Connect
 
-<a href="mailto:bello4aus@gmail.com" subject="Let's Know You">
-  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-</a>
-<a href="https://twitter.com/__tbello">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>
-<a href="https://www.linkedin.com/in/t-bello7">
-  <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-</a>
+
+  - GMAIL <a href="mailto:bello4aus@gmail.com" subject="Let's Know You"> <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>[@t-bello7](https://github.com/t-bello7)
+  - TWITTER <a href="https://twitter.com/__tbello"> <img align="left"  width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>[@__tbello](https://twitter.com/__tbello)
+  - LINKEDIN<a href="https://www.linkedin.com/in/t-bello7"> <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a> [t-bello7](https://www.linkedin.com/in/t-bello7)
 
 <br />
 <br />
