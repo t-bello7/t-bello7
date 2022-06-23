@@ -7,8 +7,8 @@
   <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
 </p>
 
-- I’m a final year bachelor’s degree student in Electrical and Electronics Engineering.
-- I am passionate about software development and I have a zeal for learning. 
+- I’m currently studying at Microverse.
+- I am passionate about software development and looking to collaborate on cool web projects. 
 - My interests include Web Development and Optimization.
 - Core Skills are CSS, Javascript and python.
 
@@ -29,7 +29,7 @@
 ### My Accomplishments 🏅
 - Microverse Certified (HTML and CSS) - [Link to the certificate](https://www.credential.net/a19cd66e-3b77-46ef-af38-9b2ddd752fe8)
 
-### Let's Connect
+### How to Reach Me
 
 
   - GMAIL <a href="mailto:bello4aus@gmail.com" subject="Let's Know You"> <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>[@t-bello7](https://github.com/t-bello7)
