@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Bello Tomi ! Glad to see you here.
+### Hi there 👋, I'm Bello Tomi! Glad to see you here.
 
 
 ### A bit about me 🙋‍♂️
@@ -24,7 +24,7 @@
 
 ### My Experiences 👨‍💻	
 - Frontend Developer @ [Microverse](https://microvers.org)
-- Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API's for the mobile and frontend team to work with.
+- Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API for the mobile and frontend team to work with.
 
 ### My Accomplishments 🏅
 - Microverse Certified (HTML and CSS) - [Link to the certificate](https://www.credential.net/a19cd66e-3b77-46ef-af38-9b2ddd752fe8)
@@ -45,4 +45,6 @@
 <br />
 
 ![no. of times visited](https://visitor-badge.laobi.icu/badge?page_id=t-bello7.t-bello7)
+
+
 
