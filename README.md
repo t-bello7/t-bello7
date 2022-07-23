@@ -32,7 +32,7 @@
 ### How to Reach Me
 
 
-  - GMAIL <a href="mailto:bello4aus@gmail.com" subject="Let's Know You"> <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>[@t-bello7](https://github.com/t-bello7)
+  - GMAIL <a href="mailto:bello4aus@gmail.com" subject="Let's Know You"> <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"/></a>[bello4aus@gmail.com](mailto:bello4aus@gmail.com)
   - TWITTER <a href="https://twitter.com/__tbello"> <img align="left"  width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"/></a>[@__tbello](https://twitter.com/__tbello)
   - LINKEDIN<a href="https://www.linkedin.com/in/t-bello7"> <img align="left" width="25px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a> [t-bello7](https://www.linkedin.com/in/t-bello7)
 
