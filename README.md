@@ -13,14 +13,13 @@
 - Core Skills are CSS, Javascript and python.
 
 ### Tech I'm familiar with 💻	
-- HTML <img  align="left" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/>
-- CSS3 <img  align="left" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="28" height="35"/> 
-- JAVASCRIPT <img  align="left" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="35" height="35"/>
-- PYTHON <img  align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> 
-- GIT <img  align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
-- DJANGO <img  align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
-- REACT <img  align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
-
+- HTML <img  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="32" height="35"/>
+- CSS3 <img  src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="28" height="35"/> 
+- JAVASCRIPT <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="35" height="35"/>
+- PYTHON <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="41" height="41"/> 
+- GIT <img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
+- DJANGO <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
+- REACT <img  src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
 
 ### My Experiences 👨‍💻	
 - Frontend Developer @ [Microverse](https://microvers.org)
