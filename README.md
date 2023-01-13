@@ -11,7 +11,7 @@ I'm a Software Enginner passionate about sharing knowledge, web engineering, clo
 
 ### A bit about me 🙋‍♂️
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true" />
+<!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&show_icons=true" /> -->
   <img width="49%" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
 </p>
 
