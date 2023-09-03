@@ -13,7 +13,7 @@ I'm a Software Enginner passionate about sharing knowledge, web engineering, clo
 <p align="center">
 <!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&shoht=w_icons=true" /> -->
   <img width="49%" height="300px" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
-  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-bello7&show_icons=true&theme=dark&layout=compact" />
+<!--   <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-bello7&show_icons=true&theme=dark&layout=compact" /> -->
 </p>
 
 <!-- - 😊 Pronouns: He/him -->
