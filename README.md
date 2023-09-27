@@ -10,11 +10,11 @@
 I'm a Software Enginner passionate about sharing knowledge, web engineering, cloud engineering, Jamstack, headless commerce and others.
 
 ### A bit about me 🙋‍♂️
-<p align="center">
+<!-- <p align="center"> -->
 <!--   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=t-bello7&theme=dark&shoht=w_icons=true" /> -->
-  <img width="49%" height="300px" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
+ <!-- <img width="49%" height="300px" src ="http://github-readme-streak-stats.herokuapp.com?user=t-bello7&theme=dark&show_icons=true" />
 <!--   <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=t-bello7&show_icons=true&theme=dark&layout=compact" /> -->
-</p>
+<!-- </p> -->
 
 <!-- - 😊 Pronouns: He/him -->
 - 💡 Fun fact: I'm currently studying cloud engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022 and Full Stack Engineering at [Microverse](https://microverse.org).
