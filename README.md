@@ -25,7 +25,7 @@ I'm a Software Enginner passionate about sharing knowledge, web engineering, clo
 
 
 ### My Experiences 👨‍💻	
-- Freelance Frontend Developer 
+- Frontend Developer and DevOps Engineer 
 - Web Developement Student Mentor @ [Microverse](https://microverse.org)
 - Backend Web Developer Intern @ [Zuri Team](https://https://creer-pjt-105.herokuapp.com/)- Designed and developed application API for the mobile and frontend team to work with.
 
