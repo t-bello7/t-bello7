@@ -22,12 +22,6 @@ const fetchRssData = (url) => __awaiter(void 0, void 0, void 0, function* () {
         const publishedData = `${date.getDate()}/${date.getMonth() + 1} /${date.getFullYear()}`;
         return `<li><a href=${item.link} target="_blank" rel="noopener noreferrer">${item.title}</a> (${publishedData}).</li>`;
     });
-    return `
-    <ul>
-      ${list.join("")}
-    </ul>\n
-    ${url.endsWith("rss.xml")
-        ? `Read more blog posts: ${url.replace(/\/rss.xml$/, "")}`
-        : `Read more newsletter issues: ${url.replace(/\/feed$/, "")}`}.`;
+    return `<ul>${list.join("")}</ul>\n`;
 });
 exports.fetchRssData = fetchRssData;
